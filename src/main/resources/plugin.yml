@@ -1,0 +1,6 @@
+name: CrafterBlocker
+version: '1.1'
+main: org.unitedlands.crafterBlocker.CrafterBlocker
+api-version: '1.21'
+authors: [Litning11]
+description: A plugin that disables Crafter blocks.
