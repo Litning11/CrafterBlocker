@@ -1,5 +1,5 @@
 name: CrafterBlocker
-version: '1.1'
+version: '1.1.1'
 main: org.unitedlands.crafterBlocker.CrafterBlocker
 api-version: '1.21'
 authors: [Litning11]
