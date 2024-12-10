@@ -37,5 +37,5 @@ public final class CrafterBlocker extends JavaPlugin implements Listener {
     public void onCrafterCraft(CrafterCraftEvent event) {
         // Cancel the crafting event.
         event.setCancelled(true);
-        }
     }
+}
